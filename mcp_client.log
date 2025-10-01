@@ -26,3 +26,10 @@
 2025-09-30 23:17:54,328 - INFO - Prompt assembled successfully.
 2025-09-30 23:17:54,328 - INFO - Simulated query to Ollama completed.
 2025-09-30 23:17:54,328 - INFO - Response saved to ollama_response_20250930_231754.txt
+2025-10-01 09:40:59,862 - INFO - Successfully loaded JSON input.
+2025-10-01 09:40:59,862 - INFO - Successfully loaded context from otto_aviation_overview.txt.
+2025-10-01 09:40:59,862 - INFO - Successfully loaded context from celera_technical_specs.txt.
+2025-10-01 09:40:59,863 - INFO - Successfully loaded context from market_analysis_summary.txt.
+2025-10-01 09:40:59,863 - INFO - Prompt assembled successfully.
+2025-10-01 09:40:59,863 - INFO - Simulated query to Ollama completed.
+2025-10-01 09:40:59,863 - INFO - Response saved to ollama_response_20251001_094059.txt

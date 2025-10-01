@@ -1,0 +1,9 @@
+Ollama response to prompt:
+Context:
+
+--- Content from otto_aviation_overview.txt ---
+Otto Aviation is an aerospace company focused on developing innovative aircraft designs. Their flagship model, the Celera, aims to revolutionize private air travel with improved fuel efficiency and aerodynamic performance.
+
+--- Content from celera_technical_specs.txt ---
+The Celera aircraft features a laminar flow fuselage, a single pusher propeller configuration, and a highly efficient diesel engine. It is designed to achieve a cruise sp...
+[Response truncated for brevity]
