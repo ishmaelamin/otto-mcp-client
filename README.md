@@ -16,14 +16,23 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) platform design
 ## 🧱 Folder Structure
 mcp_client/
 ├── mcp_client.py
+
 ├── mcp_web_ui.py
+
 ├── mcp_input.json
+
 ├── otto_aviation_overview.txt
+
 ├── celera_technical_specs.txt
+
 ├── market_analysis_summary.txt
+
 ├── ollama_response_YYYYMMDD_HHMMSS.txt
+
 ├── mcp_client.log
+
 ├── venv/
+
 
 ## 🧪 Running Locally
 
