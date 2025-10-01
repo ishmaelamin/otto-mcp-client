@@ -1,0 +1,10 @@
+{
+    "query": "What are the key benefits of Otto Aviation's Celera aircraft design?",
+    "context_sources": [
+        "otto_aviation_overview.txt",
+        "celera_technical_specs.txt",
+        "market_analysis_summary.txt"
+    ],
+    "inject_facts": true,
+    "log_level": "INFO"
+}

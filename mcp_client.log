@@ -1,0 +1,28 @@
+2025-09-30 21:11:51,553 - INFO - Successfully loaded MCP input from JSON.
+2025-09-30 21:11:51,553 - INFO - Simulated retrieval of relevant facts completed.
+2025-09-30 21:11:51,553 - INFO - Prompt assembled successfully.
+2025-09-30 21:11:57,169 - ERROR - Failed to query Ollama: Extra data: line 2 column 1 (char 93)
+2025-09-30 21:38:04,937 - INFO - Successfully loaded JSON input.
+2025-09-30 21:38:04,938 - INFO - Simulated fact retrieval completed.
+2025-09-30 21:38:04,938 - INFO - Prompt assembled with injected context.
+2025-09-30 21:38:04,938 - INFO - Query sent to Ollama and response received.
+2025-09-30 21:38:04,938 - INFO - Response saved to ollama_response_20250930_213804.txt.
+2025-09-30 21:41:11,203 - INFO - Successfully loaded JSON input.
+2025-09-30 21:41:11,203 - INFO - Simulated fact retrieval completed.
+2025-09-30 21:41:11,203 - INFO - Prompt assembled with injected context.
+2025-09-30 21:41:11,203 - INFO - Query sent to Ollama and response received.
+2025-09-30 21:41:11,203 - INFO - Response saved to ollama_response_20250930_214111.txt.
+2025-09-30 23:16:58,853 - INFO - Successfully loaded JSON input.
+2025-09-30 23:16:58,853 - INFO - Successfully loaded context from otto_aviation_overview.txt.
+2025-09-30 23:16:58,853 - INFO - Successfully loaded context from celera_technical_specs.txt.
+2025-09-30 23:16:58,853 - INFO - Successfully loaded context from market_analysis_summary.txt.
+2025-09-30 23:16:58,853 - INFO - Prompt assembled successfully.
+2025-09-30 23:16:58,853 - INFO - Simulated query to Ollama completed.
+2025-09-30 23:16:58,853 - INFO - Response saved to ollama_response_20250930_231658.txt
+2025-09-30 23:17:54,328 - INFO - Successfully loaded JSON input.
+2025-09-30 23:17:54,328 - INFO - Successfully loaded context from otto_aviation_overview.txt.
+2025-09-30 23:17:54,328 - INFO - Successfully loaded context from celera_technical_specs.txt.
+2025-09-30 23:17:54,328 - INFO - Successfully loaded context from market_analysis_summary.txt.
+2025-09-30 23:17:54,328 - INFO - Prompt assembled successfully.
+2025-09-30 23:17:54,328 - INFO - Simulated query to Ollama completed.
+2025-09-30 23:17:54,328 - INFO - Response saved to ollama_response_20250930_231754.txt

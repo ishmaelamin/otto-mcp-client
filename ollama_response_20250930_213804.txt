@@ -1,0 +1,3 @@
+Ollama response to prompt: 'Simulated facts related to query: ''
+
+User Query: '
