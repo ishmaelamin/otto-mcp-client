@@ -15,6 +15,7 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) platform design
 
 ## 🧱 Folder Structure
 mcp_client/
+
 ├── mcp_client.py
 
 ├── mcp_web_ui.py
